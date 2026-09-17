@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tazeek Bin Abdur Rakib"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
