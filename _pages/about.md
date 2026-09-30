@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My research focuses on machine learning and natural language processing. The main goal is to develop intelligent systems that can better understand, interact with, and make decisions in complex real-world situations. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I focus on three interconnected areas: 
+- **Human Signal Understanding**: exploring how AI can understand human signals (e.g: emotions, personality, perceptions) while drawing inspiration from human cognition and behavior.
+- **Context-Aware Intelligent Interaction**: examining how AI can adapt its interactions to evolving contexts based on the given domain. This ranges from conversational and cultural contexts to environmental contexts.
+- **Goal-Driven Intelligent Systems**: investigating how AI can reason, plan, and act towards explicit goals using language models, external knowledge, tools, and adaptive decision-making.
+
+These capabilities can support applications, such as personalized and proactive conversational AI to decision-support systems, that need to operate effectively in complex human environments.
+
 
 A data-driven personal website
 ======
